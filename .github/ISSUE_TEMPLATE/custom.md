@@ -1,8 +1,15 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 <!-- 예상 소요 시간 및 작업중인 페이지(컴포넌트)를 적어주세요 -->
 | 항목      | 내용                          |
-
 | --------- | ----------------------------- |
-
 | ⏰ Time        | 3H            |
 | 📄 Page |            |
 
