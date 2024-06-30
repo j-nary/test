@@ -16,7 +16,7 @@ jobs:
           l_max_size: '1000'
           fail_if_xl: 'false'
           message_if_xl: 'This PR is so big! Please, split it 😊'
-          files_to_ignore: |
-            "package-lock.json"
-            "*.lock"
-            "docs/*"
+          # files_to_ignore: |
+          #   "package-lock.json"
+          #   "*.lock"
+          #   "docs/*"
