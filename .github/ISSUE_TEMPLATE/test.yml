@@ -7,7 +7,7 @@ body:
       value: |
         작성 예시 : "[Refactor] 카드 컴포넌트 만들기"
   - type: textarea
-    id: bug-description
+    id: issue-description
     attributes:
       label: 🔨 Issue
       description: 어떠한 기능을 추가하시는 건지 적어주세요.
@@ -15,7 +15,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: reproduction
+    id: todo-description
     attributes:
       label: ✅ To-do
       description: 진행할 작업에 대해 작성해주세요
@@ -24,7 +24,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: reproduction
+    id: reference-description
     attributes:
       label: 📄 Reference
       description: (선택)참고 자료 및 특이사항을 작성해주세요
